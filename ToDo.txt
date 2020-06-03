@@ -1,0 +1,2 @@
+- Create a file with the custom scales for the different analyses
+- Organize the notebooks in a subdirectory
